@@ -67,7 +67,7 @@ Mcetateanu
 - 	Tema 1=> codul arata bine ; dar ideal e sa te si obisnuiesti putin cu mai multe commituri 😊 
 
 Costafie
--	Tema 0 => ? 
+-	Tema 0 => acum e bine :) 
 -	Tema 1 
      -	Multe commit-uri, e bine ( si descriere buna)
      -	Codul arata bine.
@@ -82,3 +82,7 @@ SebiLarion
     -	Codul arata bine 
     -	Ideal la commits (e bine ca ai facut mai multe) sa treci si ce ai rezolvat la ele, nu doar “first commit / second commit” (exact cum ai facut si la ultimul) 
     -	Ideal si fisierele sa aiba numele din clasa dinauntru (de exemplu Form1 FormHomepage)
+
+Lilicaull
+- Tema 0 => Nimic inca
+- Tema 1 => Totul e bine (intr-un final) :) 
