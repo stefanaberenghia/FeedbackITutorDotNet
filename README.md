@@ -45,6 +45,7 @@ Iordache Mihail-Madalin (4d69636861656c)
      -	un plus mare pt grupare a if-urilor de verificare visibilitate intr-o singura metoda
      -	Teoretic acele comentarii lasate se scot, nu se deployeaza pe github (in cadrul proiectelor mari nu ajuta, ca nu se stie ca s-au lasat cu un scop, sau sunt doar cod ce trebuia scos, si s-a uitat de el)
      -	In rest totul e bine.
+     <img src=“https://github.com/stefanaberenghia/FeedbackITutorDotNet/blob/master/tema1Grupare.PNG”>
 
 Siminarosioru
 -	Tema 0 => totul bine
