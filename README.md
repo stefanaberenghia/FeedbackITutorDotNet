@@ -84,5 +84,5 @@ SebiLarion
     -	Ideal si fisierele sa aiba numele din clasa dinauntru (de exemplu Form1 FormHomepage)
 
 Lilicaull
-- Tema 0 => Nimic inca
+- Tema 0 => Totul e bine !
 - Tema 1 => Totul e bine (intr-un final) :) 
