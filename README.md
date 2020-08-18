@@ -60,7 +60,10 @@ Katy1386
 
 Mihailfox
 -	Tema 0 => totul bine 
--	Tema 1 => inca nimic? 
+-	Tema 1 => inca nimic? Am descoperit branch-ul nou, imi place cum ai structurat codul, si LibraryUtils!
+![Snip](https://github.com/stefanaberenghia/FeedbackITutorDotNet/blob/master/snapLibraryUtils.PNG?raw=true)
++ metoda de toggle
+![Snip](https://github.com/stefanaberenghia/FeedbackITutorDotNet/blob/master/snapLibraryUtils2.PNG?raw=true)
 
 Mcetateanu 
 - 	Tema 0 => ?
