@@ -134,11 +134,6 @@ SebiLarion
 -   Tema 2 => the code looks clean ; arata bine !
 -   Tema 3 => inca nimic
 
-Lilicaull
--    Tema 0 => Totul e bine !
--    Tema 1 => Totul e bine (intr-un final) :) 
--    Tema 2 => inca nu am vazut nimic 
--    Tema 3 => nu mai am acces la repos? 
 
 CiobanuMarius
 -    Tema 0 => totul ok
